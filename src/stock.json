@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "42mm Space Gray Aluminium Case with Black woven Nylon",
+    "imgName": "h38ss-dtbl-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "2",
+    "title": "42mm Gold Aluminium Case with Gold/Royal Blue woven Nylon",
+    "imgName": "s42gd-nsgb-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "3",
+    "title": "42mm Rose Gold Aluminium Case with Royal Blue woven Nylon",
+    "imgName": "s42rg-nsdb-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "4",
+    "title": "42mm Silver Aluminium Case with Scuba Blue woven Nylon",
+    "imgName": "s42si-nssb-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "5",
+    "title": "Double Tour, 38mm Stainless Steel Case with Etain Leather Band",
+    "imgName": "h38ss-dtgr-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "6",
+    "title": "Double Tour, 38mm Stainless Steel Case with Capucine Leather Band",
+    "imgName": "h38ss-dtrd-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "7",
+    "title": "Double Tour, 38mm Stainless Steel Case with Bleu Jean Leather Band",
+    "imgName": "h38ss-dtbl-sel-201603",
+    "status": "available"
+  },
+  {
+    "id": "8",
+    "title": "Double Tour, 42mm Stainless Steel Case with Noir Leather Band",
+    "imgName": "h42ss-stbk-sel-201603",
+    "status": "available"
+  }
+]
